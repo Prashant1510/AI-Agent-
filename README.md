@@ -99,25 +99,27 @@ Make sure you have **Python 3.9+** installed. You can download it from [python.o
 Check your Python version:
 ```bash
 python --version
+```
 
 ### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/Prashant1510/AI-Agent-.git
 cd AI-Agent-
+```
 
 ### 2. Create and Activate Virtual Environment
 
 ```bash
 python -m venv .venv
 source .venv/bin/activate
-
+```
 
 ### 3. Install Dependencies
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 ### 4. Add Google API Key to .env File
 
@@ -127,7 +129,7 @@ GOOGLE_API_KEY=your_google_api_key_here
 
 ```bash
 python main.py
-
+```
 ---
 
 ## 📬 Contact
