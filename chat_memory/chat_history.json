@@ -1,0 +1,42 @@
+[
+  {
+    "type": "human",
+    "content": "increase the brightness and volume to 100%"
+  },
+  {
+    "type": "ai",
+    "content": "Brightness and volume have been set to 100%."
+  },
+  {
+    "type": "human",
+    "content": "why the sky is blue"
+  },
+  {
+    "type": "ai",
+    "content": "The sky is blue due to a phenomenon called Rayleigh scattering.  Sunlight is made up of all the colors of the rainbow.  As sunlight enters the Earth's atmosphere, it collides with tiny air molecules (mostly nitrogen and oxygen).  These molecules are much smaller than the wavelengths of visible light.  Rayleigh scattering causes shorter wavelengths of light, like blue and violet, to scatter more strongly than longer wavelengths, like red and orange.  This scattered blue light is what we see when we look at the sky.  Violet light is actually scattered even more than blue, but our eyes are more sensitive to blue, and the sun emits slightly less violet light, resulting in a blue sky."
+  },
+  {
+    "type": "human",
+    "content": "why it is blue not red"
+  },
+  {
+    "type": "ai",
+    "content": "Please provide more context.  What is 'it' that is blue instead of red?  I need more information to answer your question."
+  },
+  {
+    "type": "human",
+    "content": "do you remember what is my previous question was"
+  },
+  {
+    "type": "ai",
+    "content": "Your previous question was: \"why the sky is blue\""
+  },
+  {
+    "type": "human",
+    "content": "my name is prashant"
+  },
+  {
+    "type": "ai",
+    "content": "Hello Prashant!  I will remember your name for this conversation."
+  }
+]
