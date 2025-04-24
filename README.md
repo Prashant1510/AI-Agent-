@@ -130,7 +130,7 @@ python main.py
 
 ---
 
-### 📬 Contact
+## 📬 Contact
 
 Feel free to reach out if you have any questions or feedback:
 
@@ -140,4 +140,5 @@ Feel free to reach out if you have any questions or feedback:
 
 ## ⚠️ Requirements
 
-> **Note**: You can run the program on CPU, but it needs a minimum of **16 GB RAM** and processors like **Ryzen 7** or **Intel i7 and above**. GPU will boost performance if available.
+> **Note**: You can run the program on **CPU**, but it requires a minimum of **16 GB RAM** and processors like **Ryzen 7** or **Intel i7 and above**.  
+> A **GPU** will significantly boost performance if available.
