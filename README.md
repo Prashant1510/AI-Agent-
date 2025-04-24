@@ -86,7 +86,7 @@ A powerful Multimodel voice-enabled AI assistant built using Python, LangChain, 
 
 ---
 
-## ⚙️ Installation Guide
+## ⚙️ Installation Guide for Linux(Ubuntu)
 
 Follow the steps below to set up and run the LangChain Voice Assistant on your local machine:
 
@@ -136,7 +136,7 @@ python main.py
 
 Feel free to reach out if you have any questions or feedback:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prashant%20Maurya-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/prashant1510/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prashant%20Maurya-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/prashant-maurya-017776246/)
 
 ---
 
