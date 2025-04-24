@@ -4,14 +4,44 @@ A powerful Multimodel voice-enabled AI assistant built using Python, LangChain, 
 
 ---
 
+## 🚀 Demo
+
+### 🎤 **Voice Command Demo**
+
+![Voice Command Demo](assets/images/voice_command.png)  
+*This image shows the assistant processing a voice command and performing the requested task (like opening an app, answering a query, etc.).*
+
+---
+
+### 🔧 **Tool Integration Demo**
+
+![Voice Command Demo](assets/images/real_time1.png)  
+*Click the image above to watch the demo of the assistant integrating with different tools like web search, weather info, and more.*
+
+---
+
+### 🧠 **Memory Demo**
+
+![Memory Demo](assets/images/chat_memory.png)  
+*This image shows the assistant's memory feature in action, remembering previous interactions.*
+
+---
+
+### 📹 **Complete Operation Video**
+
+[![Complete Operation Demo](assets/images/operation_thumbnail.jpg)](assets/videos/complete_operation_demo.mp4)  
+*Click the image above to watch the complete operation of the voice assistant in action.*
+
+---
+
 ## 🚀 Features
 
-- 🎤 **Voice Input**: Speak directly into your microphone — no typing needed!
-- 🤖 **Smart AI Response**: Uses llama2 as LLM to answer questions, search Wikipedia, and perform tasks.
+- 🎤 **Voice Input**: Speak(Hindi/English) directly into your microphone — no typing needed!
+- 🤖 **Smart AI Response**: Uses Goole-gemini and llama2 as LLM to answer questions, search Wikipedia, and perform tasks.
 - 📢 **Text-to-Speech Output**: Responds in a natural-sounding voice using `pyttsx3` with custom function.
 - 🔗 **LangChain Integration**: Combines tools and agents to access real-time knowledge and context.
 - 🔄 **Memory Support**: Remembers previous user queries during the session.
-- 🧩 **Custom Tools**: Includes tools like Wikipedia search, time checker, weather info and more.
+- 🧩 **Custom Tools**: Includes tools like Wikipedia search, time checker, weather info, change volume/brightness and more.
 - 🧊 **Offline Speech-to-Text Option**: Fast recognition with speech recognizer and Google Translate for language processing.
 
 ---
@@ -53,6 +83,58 @@ A powerful Multimodel voice-enabled AI assistant built using Python, LangChain, 
 | **Close App**         | Close running applications by name                                       |
 | **Change Volume**     | Set the system volume to a specific percentage (0–100%)                  |
 | **Set Brightness**    | Adjust screen brightness by percentage (0–100%)                          |
+
+---
+
+## ⚙️ Installation Guide
+
+Follow the steps below to set up and run the LangChain Voice Assistant on your local machine:
+
+---
+
+### 1️⃣ Install Python
+
+Make sure you have **Python 3.9+** installed. You can download it from [python.org](https://www.python.org/downloads/).
+
+Check your Python version:
+```bash
+python --version
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/Prashant1510/AI-Agent-.git
+cd AI-Agent-
+
+### 2. Create and Activate Virtual Environment
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+
+
+### 3. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+
+
+### 4. Add Google API Key to .env File
+
+GOOGLE_API_KEY=your_google_api_key_here
+
+### 5. Run the Project
+
+```bash
+python main.py
+
+---
+
+## 📬 Contact
+
+Feel free to reach out if you have any questions or feedback:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prashant%20Maurya-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/prashant1510/)
 
 ---
 
