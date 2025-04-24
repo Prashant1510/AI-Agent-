@@ -130,7 +130,7 @@ python main.py
 
 ---
 
-## 📬 Contact
+### 📬 Contact
 
 Feel free to reach out if you have any questions or feedback:
 
